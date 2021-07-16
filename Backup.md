@@ -1,4 +1,4 @@
-# 입맛대로 고르는 Git 코드 목록
+# 입맛대로 고르는 Git 코드
 
 ## 위치
 pwd: 현재 위치
@@ -32,8 +32,8 @@ cp 파일 ./파일: `여기`
 clear: 화면 정리
 
 
-## git 상태
-git --version: `여기`
+## git 환경만들기
+git --version: git version 확인
 
 git init: git 폴더로 권한부여 (.git 파일 생성)
 
@@ -61,7 +61,7 @@ cat description: `여기`
 
 code. : Visual Studio Code 실행
 
-git diff 파일 : `여기`
+git diff 파일 : 안에 입력된 내용 보여줘. 나갈땐 esc 연타후 q
 
 git remote: 버전출력
 
@@ -88,8 +88,7 @@ ctrl c/ ctrl v: `여기`
 ctrl ins/shift ins : 복사 붙여넣기
 
 ## 순서
-|mkdir recap|(폴더 만들기)|ㄴㄴ|
-
+mkdir recap(폴더 만들기)
 
 git init (git 권한 주기)
 touch hello.md
@@ -103,6 +102,8 @@ git push origin 별명
 
 ## 궁금한 코드
 1. 실행한 코드 취소
+
+
 
 
 ## 참조사항
