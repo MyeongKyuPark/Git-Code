@@ -9,9 +9,9 @@ cd 폴더: 폴더로 이동해줘. change directory.
 
 ~: 홈 디렉토리
 
-.:하위폴더
+.: ?
 
-..:상위폴더
+..:상위폴더 (나갈래)
 
 mkdir 폴더이름: make directory 폴더
 
@@ -61,7 +61,7 @@ git remote: 버전출력
 
 git remote 저장소별명 저장소주소
 
-git remote add origin 사이트 :
+git remote add origin 사이트 : 분산 사이트에 저장 (e.g. github)
 
 git remote -v : verbose (말이많은). 상세하게 출력
 
