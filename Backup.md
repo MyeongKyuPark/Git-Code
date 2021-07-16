@@ -1,4 +1,4 @@
-# Git 코드 목록
+# 입맛대로 고르는 Git 코드 목록
 
 ## 위치
 pwd: 현재 위치
@@ -11,7 +11,7 @@ cd 폴더: 폴더로 이동해줘. change directory.
 
 ~: 홈 디렉토리
 
-.: `여기`
+.: 전체 선택
 
 ..:상위폴더 (나갈래)
 
@@ -77,7 +77,8 @@ git push [저장소별명] [브랜치이름]:
 
 git remote remove origin: 기존의 저장소와의 연결 끊기 
 
-
+## 찾아볼 거!
+nano 파일 : `여기` 만들고 수정까지. 실습요함. 
 
 > cf) 특이사항 발생시 
 :!q : 이상한 곳 탈출
@@ -87,18 +88,24 @@ ctrl c/ ctrl v: `여기`
 ctrl ins/shift ins : 복사 붙여넣기
 
 ## 순서
-mkdir recap
-git init
-touch hello.md
-code.
-git add hello.md
-git commit -m 'hello.md'
-git status
+|mkdir recap|(폴더 만들기)|ㄴㄴ|
 
+
+git init (git 권한 주기)
+touch hello.md
+code. (코드작성)
+git add hello.md (사진)
+git commit -m 'hello.md' (버전)
+github 가서 repos 만들기
+git remote add 별명 주소
+git remote -v 확인
+git push origin 별명
 
 ## 궁금한 코드
 1. 실행한 코드 취소
 
 
 ## 참조사항
-1. `여기` 라는 작성자가 공부하려고 체크한 부분
+1. `여기` 는 작성자가 공부하려고 체크한 부분
+2. `여기1` 는 실습이 필요함
+2. 사용자가 경험한 것을 기초로 작성
