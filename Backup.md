@@ -69,7 +69,13 @@ git push: 원격저장소에 코드 백업
 
 git push [저장소별명] [브랜치이름]:
 
+
+> 특이사항 발생시 
+:!q : 이상한 곳 탈출
+q: 탈출
+
 ctrl c/ ctrl v: ?
+ctrl ins/shift ins : 복사 붙여넣기
 
 ## 궁금한 코드
 1. 실행한 코드 취소
