@@ -41,7 +41,7 @@ git status: 상태확인 (변화여부)
 
 git add 파일: 사진찍기 (staging area)
 
-git commit -m "이름": 복구파일 생성
+git commit -m "이름": 복구파일버전 생성
 
 git config --global user.name '이름': 처음 git 생성할때 이름
 
